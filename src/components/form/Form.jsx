@@ -1,6 +1,6 @@
 const Form = () => {
   return (
-    <div>Form</div>
+    <div>practica2</div>
   )
 }
 
